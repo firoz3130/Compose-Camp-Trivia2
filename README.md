@@ -6,7 +6,7 @@ Compose conducted The Thursday trivia challenge
 
 Rock Paper Scissor Game built as part of Trivia challenge
 
-Will bw adding more functionalities soon......
+Will be adding more functionalities soon......
 
 <td><img src="Emulator2trivia.jpg" width=200>Game page</td>
 </tr>
